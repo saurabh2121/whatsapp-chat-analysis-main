@@ -1,2 +1,4 @@
-# whatsapp-chat-analysis-main
-whatsapp chat analysis is web application which use whatsapp data to analyse it
+# whatsapp-chat-analysis
+A streamlit app to analyze your whatsapp chats
+
+Demo Link: https://wca-campusx.herokuapp.com/
